@@ -1,0 +1,3 @@
+https://itnext.io/using-a-smart-contract-in-an-web-application-78432ed68527
+
+using this link, while utilizing the context and ethers.js
